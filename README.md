@@ -1,4 +1,4 @@
 # HELLO WORLD
 
 
-![My Profile Banner](images/forRepository/image-name.jpg)
+![My Profile Banner](images/forRepository.jpg)
