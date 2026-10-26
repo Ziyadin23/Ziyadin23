@@ -7,9 +7,6 @@ I like building things I would keep using after the project is finished.
 
 ### What I'm working on
 
-I'm deepening my JavaScript and Node.js skills, with a focus on API
-design, databases, and better-structured backend applications.
-
 **[ScreenCompanion](https://github.com/Ziyadin23/ScreenCompanion)**  
 
 **Other projects I've worked on:**
@@ -28,7 +25,3 @@ design, databases, and better-structured backend applications.
 | Development | Git, GitHub, Linux, VS Code |
 | Deployment | Render, Vercel |
 | Other languages | Python, C++, C# |
-
-**[Email](mailto:ziyadinku@gmail.com)** //
-**[GitHub](https://github.com/Ziyadin23)** //
-**[Telegram](https://t.me/yydiv)**
